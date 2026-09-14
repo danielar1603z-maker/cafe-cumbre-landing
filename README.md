@@ -33,4 +33,4 @@ En vez de tarjetas de producto genéricas, cada café se presenta como una "fich
 
 ## Autora
 
-Daniela Rúa Zabala — [tu-linkedin] · [tu-github]
+Daniela Rúa Zabala 
